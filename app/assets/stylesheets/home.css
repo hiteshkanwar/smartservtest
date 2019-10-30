@@ -1,0 +1,31 @@
+h1{
+  font-size: 50px;
+}
+.table-data table{
+	width: 100%;
+
+}
+.table-data table thead tr{
+	
+	background-color: #eee;
+
+}
+.table-data table thead tr th{
+	
+	padding: 5px;
+	text-align: left;
+
+}
+.table-data table tbody tr td{
+	padding: 5px;
+
+}
+ul.pagination-status {
+    margin: 10px 0;
+    padding: 0;
+    list-style: none;
+}
+ul.pagination-status li {
+    display: inline-block;
+    padding-right: 5px;
+}
